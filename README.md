@@ -17,8 +17,8 @@ Features of the Project
 
 How To Run
 
-1st Step: Extract file
-2nd Step: Copy the main project folder
+1st Step: create a folder name tms and copy paste all the files in it except the sql file 
+2nd Step: ensure that tms and sql file are two different folders
 3rd Step: Paste in xampp/htdocs/
 
 Now Connecting Database
